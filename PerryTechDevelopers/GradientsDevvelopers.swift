@@ -12,10 +12,20 @@ struct GradientDevvelopers: View {
         RoundedRectangle(cornerRadius: 25.0)
             .fill(
               //Color.red
-                LinearGradient(
-                    gradient: Gradient(colors: [Color.red, Color.blue]),
-                    startPoint: .top,
-                    endPoint: .bottomTrailing)
+//                LinearGradient(
+//                    gradient: Gradient(colors:
+        
+                   // startPoint: .topLeading,
+                   // endPoint: .bottom)
+//                RadialGradient(
+//                    gradient: Gradient(colors: [Color.blue, Color.blue]),
+//                    center: .leading,
+//                    startRadius: 5,
+//                    endRadius: 400)
+                AngularGradient(
+                    gradient: Gradient(colors: [Color.blue, Color.blue]),
+                    center: .topLeading,
+                    angle: .degrees(180+45))
             )
             .frame(width: 300, height: 200)
     
