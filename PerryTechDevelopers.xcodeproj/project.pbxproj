@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B6559242C4BDC7B0096BBC4 /* StacksDevelopers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B6559232C4BDC7B0096BBC4 /* StacksDevelopers.swift */; };
+		9B6559262C4D89410096BBC4 /* PaddingAndSpacerDevelopers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B6559252C4D89410096BBC4 /* PaddingAndSpacerDevelopers.swift */; };
 		9B89D25A2C47B57F00E6F58B /* PerryTechDevelopersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B89D2592C47B57F00E6F58B /* PerryTechDevelopersApp.swift */; };
 		9B89D25C2C47B57F00E6F58B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B89D25B2C47B57F00E6F58B /* ContentView.swift */; };
 		9B89D25E2C47B58100E6F58B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B89D25D2C47B58100E6F58B /* Assets.xcassets */; };
@@ -22,6 +24,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9B6559232C4BDC7B0096BBC4 /* StacksDevelopers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksDevelopers.swift; sourceTree = "<group>"; };
+		9B6559252C4D89410096BBC4 /* PaddingAndSpacerDevelopers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerDevelopers.swift; sourceTree = "<group>"; };
 		9B89D2562C47B57F00E6F58B /* PerryTechDevelopers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PerryTechDevelopers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B89D2592C47B57F00E6F58B /* PerryTechDevelopersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerryTechDevelopersApp.swift; sourceTree = "<group>"; };
 		9B89D25B2C47B57F00E6F58B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -78,6 +82,8 @@
 				9BAB4BF02C4A780000D1373E /* ImageDevelopers.swift */,
 				9BAB4BF22C4AAC9A00D1373E /* FrameDevelopers.swift */,
 				9BAB4BF42C4AB72D00D1373E /* BackgroundAndoverlayDevelopers.swift */,
+				9B6559232C4BDC7B0096BBC4 /* StacksDevelopers.swift */,
+				9B6559252C4D89410096BBC4 /* PaddingAndSpacerDevelopers.swift */,
 				9B89D25D2C47B58100E6F58B /* Assets.xcassets */,
 				9B89D25F2C47B58100E6F58B /* PerryTechDevelopers.entitlements */,
 				9B89D2602C47B58100E6F58B /* Preview Content */,
@@ -164,12 +170,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				9B89D25C2C47B57F00E6F58B /* ContentView.swift in Sources */,
+				9B6559242C4BDC7B0096BBC4 /* StacksDevelopers.swift in Sources */,
 				9B89D2692C47C40C00E6F58B /* TextDevelopers.swift in Sources */,
 				9BAB4BEF2C4A6CCD00D1373E /* IconsDevelopers.swift in Sources */,
 				9BAB4BF52C4AB72D00D1373E /* BackgroundAndoverlayDevelopers.swift in Sources */,
 				9BB5578D2C4952AD00FED6F5 /* ColorsDevelopers.swift in Sources */,
 				9BAB4BF12C4A780000D1373E /* ImageDevelopers.swift in Sources */,
 				9B89D26B2C48007F00E6F58B /* ShapesDevelopers.swift in Sources */,
+				9B6559262C4D89410096BBC4 /* PaddingAndSpacerDevelopers.swift in Sources */,
 				9B89D25A2C47B57F00E6F58B /* PerryTechDevelopersApp.swift in Sources */,
 				9BB5578F2C499F4900FED6F5 /* GradientsDevvelopers.swift in Sources */,
 				9BAB4BF32C4AAC9A00D1373E /* FrameDevelopers.swift in Sources */,
